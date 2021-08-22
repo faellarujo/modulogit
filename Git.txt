@@ -1,0 +1,8 @@
+git commit -am "Descrição" = adiciona as alterações e commita de uma vez
+
+
+
+git reset -soft = Ele volta no paosição que eu quiser antes do commit (obs: Ele não apaga as alterações) 
+
+git diff mostra o que foi alterado
+git diff --name-only mostra quais arquivos foram modificados
