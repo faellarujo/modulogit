@@ -13,3 +13,6 @@ git push -u origin teste
 
 git revert --no-edit 2333b203b48ab5ee7d25f9d4707e5f410c91140e comando para reverter o commit sem perder o que foi feito no commit que deu problema
 
+
+git branch -D [nome da Branch] = Deleta a Branch local
+git branch [:nome da Branch] = Deleta a Branch remota
