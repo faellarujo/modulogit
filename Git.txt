@@ -6,3 +6,6 @@ git reset -soft = Ele volta no paosição que eu quiser antes do commit (obs: El
 
 git diff mostra o que foi alterado
 git diff --name-only mostra quais arquivos foram modificados
+
+
+git push -u origin teste
